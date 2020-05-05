@@ -1,9 +1,12 @@
 # TrackATruck approach
 TrackATruck is an emission inventory approach of heavy-duty trucks (HDTs). This repository includes the validations of simulated opMode module in TrackATruck approach. More detail, see the article "".
 
-Author: Fanyuan Deng, Zhaofeng Lv, Lijuan Qi, Xiaotong Wang, Mengshuang Shi and Huan Liu< br >
-Maintainer: dfy18@mails.tsinghua.edu.cn< br >
-License:  Apache License 2.0< br >
+Author: Fanyuan Deng, Zhaofeng Lv, Lijuan Qi, Xiaotong Wang, Mengshuang Shi and Huan Liu
+
+Maintainer: dfy18@mails.tsinghua.edu.cn
+
+License:  Apache License 2.0
+
 Encoding: UTF-8
 
 *NOTE: This repository is not a R packages. User should download and run the code in R environment. In addition, some R packages are needed, as shown in following imports.* 
