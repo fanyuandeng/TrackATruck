@@ -1,7 +1,7 @@
 # TrackATruck approach
 TrackATruck is an emission inventory approach of heavy-duty trucks (HDTs). This repository includes the validations of simulated opMode module in TrackATruck approach. More detail, see the article "".
 
-Author: Fanyuan Deng, Zhaofeng Lv, Lijuan Qi, Xiaotong Wang, Mengshuang Shi and Huan Liu
+Author: Fanyuan Deng, Zhaofeng Lv, Lijuan Qi, Xiaotong Wang, Mengshuang Shi and Huan Liu.
 Maintainer: dfy18@mails.tsinghua.edu.cn
 License:  Apache License 2.0
 Encoding: UTF-8
