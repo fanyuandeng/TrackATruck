@@ -24,6 +24,10 @@ We recommend that user's device meets the following system requirements. User ca
 3. R packages versions: pacman(>=0.5.1), data.table(>=1.11.8), ggplot2(>=3.1.1), magrittr(>=1.5), tidyr(>=0.8.2), parallel(>=3.5.1), foreach(>=1.4.4), doParallel(>=1.0.14), dplyr(>=0.8.3), stringr(>=1.3.1).
 4. Rstudio version: RStudio Desktop(>=1.2.1335) or Rstudio Server(>=1.1.463).
 
+## Installation guide
+Please access the websites https://cran.r-project.org/ and https://rstudio.com/ for installations of R/Rstudio.
+The expected install time is about helf hour.
+
 ## Step 1: preparing the files and setting operations
 1. Downloading all files in your workspace.
 2. Decompressing the data.rar. The data includes 400 sample HDT driving trajectory. The duration is 400 seconds for each trajectory.
