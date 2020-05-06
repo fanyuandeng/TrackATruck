@@ -33,7 +33,7 @@ The expected install time is about helf hour.
 2. Decompressing the data.rar. The data includes 400 sample HDT driving trajectory. The duration is 400 seconds for each trajectory.
 3. Opening the TrackATruck_submit.R, and revising the operations (Line 8-9) to fit the available CPU cores. For example, the following codes are work on a device with 4 CPU cores:
 
->core_num<-14  
+>core_num<-4  
 >core_type<-'SOCK'
 
 *NOTE: more operations for the core_num and core_type, see the helps of foreach package.*
