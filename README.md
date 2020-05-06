@@ -36,7 +36,8 @@ The expected install time is about helf hour.
 >core_num<-4  
 >core_type<-'SOCK'
 
-*NOTE: more operations for the core_num and core_type, see the helps of foreach package.*
+Where the  object core_num is the available CPU cores, and the core_type is the supported type of cluster, more detail see [snow](https://cran.r-project.org/web/packages/snow/snow.pdf).  
+
 
 ## Step 2: running the codes
 1. Running the line 10-129: the model output (summary) from files in data.rar will save in the global environment. The output data includes the observed/simulated emissions of the input sample trajectories.
