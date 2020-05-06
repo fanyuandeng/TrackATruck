@@ -37,3 +37,4 @@ We recommend that user's device meets the following system requirements. User ca
 ## Step 2: running the codes
 1. Running the line 10-129: the model output (summary) from files in data.rar will save in the global environment.
 2. Runing the line 132-137 or line 140-145: the xy plot will display on the plot panel in Rstudio.
+3. The expected run time for this demo is from several minutes to helf hour.
