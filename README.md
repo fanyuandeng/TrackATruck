@@ -29,7 +29,7 @@ We recommend that user's device meets the following system requirements. User ca
 2. Decompressing the data.rar.
 3. Opening the TrackATruck_submit.R, and revising the operations (Line 8-9) to fit the available CPU cores. For example, the following codes are work on a device with 4 CPU cores:
 
->core_num<-14
+>core_num<-14  
 >core_type<-'SOCK'
 
 *NOTE: more operations for the core_num and core_type, see the helps of foreach package.*
