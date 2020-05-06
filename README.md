@@ -22,10 +22,10 @@ We recommend that user's device meets the following system requirements. User ca
 1. Operating system: Windows 10/Linux.
 2. R version: 3.5.1 or higher.
 3. R packages versions: pacman(>=0.5.1), data.table(>=1.11.8), ggplot2(>=3.1.1), magrittr(>=1.5), tidyr(>=0.8.2), parallel(>=3.5.1), foreach(>=1.4.4), doParallel(>=1.0.14), dplyr(>=0.8.3), stringr(>=1.3.1).
-4. Rstudio version: RStudio Desktop(>=1.2.1335) or Rstudio Server(>=1.1.463)
+4. Rstudio version: RStudio Desktop(>=1.2.1335) or Rstudio Server(>=1.1.463).
 
 ## Step 1: preparing the files and setting operations
-1. Downloading all files in your workspace
+1. Downloading all files in your workspace.
 2. Decompressing the data.rar.
 3. Opening the TrackATruck_submit.R, and revising the operations (Line 8-9) to fit the available CPU cores. For example, the following codes are work on a device with 4 CPU cores:
 
