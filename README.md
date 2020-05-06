@@ -1,7 +1,7 @@
 # About
-TrackATruck is an emission inventory approach of heavy-duty trucks (HDTs). This repository includes the validations of simulated opMode module in TrackATruck approach. More detail, see the article "". The supporting data of this artical are also included in this repository. 
+TrackATruck is an emission inventory approach of heavy-duty trucks (HDTs). This repository includes the validations of the simulated opMode module in TrackATruck approach. More detail, see the article "". The supporting data of this article are also included in this repository. 
 
-*NOTE: This repository is not a R packages. User should download and run the code in R environment. In addition, some R packages are needed, as shown in following imports.*
+*NOTE: This repository is not a R packages. User should download and run the code in R environment. In addition, several R packages are needed, as shown in the following imports.*
 
 *Imports: pacman, data.table, ggplot2, magrittr, tidyr, parallel, foreach, doParallel, iterators, dplyr, stringr.* 
 
