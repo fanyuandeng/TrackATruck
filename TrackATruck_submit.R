@@ -6,7 +6,7 @@ pacman::p_load(data.table,ggplot2, magrittr, tidyr, parallel, foreach, doParalle
 #options================================================================
 
 core_num<-14
-core_type<-'FORK'
+core_type<-'SOCK'
 
 #support data===========================================================
 Btable<-data.table(Bin=as.character(paste('Bin',1:23, sep = '')) %>% factor(levels = as.character(paste('Bin',1:23, sep = ''))),
