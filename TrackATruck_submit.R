@@ -1,7 +1,7 @@
 rm(list=ls())
 getwd()
 
-pacman::p_load(data.table,ggplot2, magrittr, tidyr, parallel, foreach, doParallel, iterators,dplyr, stringr)
+pacman::p_load(data.table,ggplot2, magrittr, tidyr, parallel, foreach, doParallel,dplyr, stringr)
 
 #options================================================================
 
