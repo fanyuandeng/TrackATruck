@@ -26,7 +26,7 @@ We recommend that user's device meets the following system requirements. User ca
 
 ## Step 1: preparing the files and setting operations
 1. Downloading all files in your workspace.
-2. Decompressing the data.rar.
+2. Decompressing the data.rar. The data includes 400 sample HDT driving trajectory. The duration is 400 seconds for each trajectory.
 3. Opening the TrackATruck_submit.R, and revising the operations (Line 8-9) to fit the available CPU cores. For example, the following codes are work on a device with 4 CPU cores:
 
 >core_num<-14  
@@ -35,6 +35,6 @@ We recommend that user's device meets the following system requirements. User ca
 *NOTE: more operations for the core_num and core_type, see the helps of foreach package.*
 
 ## Step 2: running the codes
-1. Running the line 10-129: the model output (summary) from files in data.rar will save in the global environment.
+1. Running the line 10-129: the model output (summary) from files in data.rar will save in the global environment. The output data includes the observed/simulated emissions of the input sample trajectories.
 2. Runing the line 132-137 or line 140-145: the xy plot will display on the plot panel in Rstudio.
 3. The expected run time for this demo is from several minutes to helf hour.
