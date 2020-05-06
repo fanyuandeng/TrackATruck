@@ -4,7 +4,7 @@ TrackATruck is an emission inventory approach of heavy-duty trucks (HDTs). This 
 *NOTE: This repository is not a R packages. User should download and run the code in R environment. In addition, several R packages are needed, as shown in the **System requirements.***
 
 ## Authors
-Fanyuan Deng, Zhaofeng Lv, Lijuan Qi, Xiaotong Wang, Mengshuang Shi and Huan Liu.
+Fanyuan Deng, Zhaofeng Lv, Lijuan Qi, Xiaotong Wang, Mengshuang Shi and Huan Liu*.
 ## License
 Apache License 2.0.
 
