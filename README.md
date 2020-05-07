@@ -1,7 +1,7 @@
 # About
 TrackATruck is an emission inventory approach of heavy-duty trucks (HDTs). This repository includes the validations of the simulated opMode module in TrackATruck approach. More detail, see the article "A Big data Approach to Improving the Vehicle Emission Inventory in China". The supporting data of this article are also included in this repository. 
 
-*NOTE: This repository is not a R packages. User should download and run the code in R environment. In addition, several R packages are needed, as shown in the **System requirements.***
+*NOTE: This repository is not a R packages. User should download and run the code in R environment. In addition, several R packages are needed, as shown in the **System requirements***.  
 
 ## Authors
 Fanyuan Deng, Zhaofeng Lv, Lijuan Qi, Xiaotong Wang, Mengshuang Shi and Huan Liu*.
@@ -30,7 +30,7 @@ The expected install time is about helf hour.
 
 ## Step 1: preparing the files and setting operations
 1. Downloading all files in your workspace.
-2. Decompressing the data.rar. The data includes 400 sample HDT driving trajectory. The duration is 400 seconds for each trajectory.
+2. Decompressing the data.rar. The data includes 400 HDT driving trajectories. The duration is 400 seconds for each trajectory.
 3. Opening the TrackATruck_submit.R, and revising the operations (Line 8-9) to fit the available CPU cores. For example, the following codes are work on a device with 4 CPU cores:
 
 >core_num<-4  
